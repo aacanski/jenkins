@@ -1,0 +1,17 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "Project for storing Postman tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Acanski",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^3.8.3"
+  }
+}
